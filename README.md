@@ -1,3 +1,4 @@
+<img align="right" src="ezgif.com-gif-maker.gif" width="130" alt="Reação engraçada em estilo anime">
 
 # 👋 Olá, mundo! Eu sou o Luan Xavier
 
@@ -12,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanvrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanvrx&layout=compact&langs_count=16&theme=radical"/>
 </div>
-<img align="right" src="anime.gif.gif" width="130" alt="Reação engraçada em estilo anime">
+    
 ## 🛠️ Tecnologias em estudo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
