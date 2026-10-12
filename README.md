@@ -1,8 +1,7 @@
-<img align="right" src="ezgif.com-gif-maker.gif" width="130" alt="Reação engraçada em estilo anime">
 
-# 👋 Olá, mundo! Eu sou o Luan Xavier
+# 👋 Olá, mundo! Eu sou o Luan Xavier <img align="right" src="ezgif.com-gif-maker.gif" width="130" alt="Reação engraçada em estilo anime">
 
-🎓 Estudante e entusiasta de tecnologia  
+🎓 Estudante e entusiasta de tecnologia 
 💻 No momento, estudando **HTML5** e **CSS3**  
 🌱 Aprendendo um pouco mais a cada dia  
 🚀 Construindo meus primeiros projetos para a web  
@@ -16,7 +15,7 @@
     
 ## 🛠️ Tecnologias em estudo
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 Onde me encontrar
