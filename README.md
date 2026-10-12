@@ -1,6 +1,6 @@
 
 # 👋 Olá, mundo! Eu sou o Luan Xavier
-🎓 Estudante e entusiasta de tecnologia 
+🎓 Estudante e entusiasta de tecnologia
 💻 No momento, estudando **HTML5** e **CSS3**  
 🌱 Aprendendo um pouco mais a cada dia  
 🚀 Construindo meus primeiros projetos para a web  
