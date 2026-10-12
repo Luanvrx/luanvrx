@@ -1,8 +1,7 @@
 
 # 👋 Olá, mundo! Eu sou o Luan Xavier
-🎓 Estudante e entusiasta de tecnologia
-💻 No momento, estudando **HTML5** e **CSS3**  
-🌱 Aprendendo um pouco mais a cada dia  
+
+💻 Estudante e entusiasta de tecnologia, no momento estudando **HTML5** e **CSS3**  
 🚀 Construindo meus primeiros projetos para a web  
 🙋‍♂️ Pronomes: ele/dele
 
